@@ -9,4 +9,4 @@ Run `npm install` to install the dependencies.
 
 Run `npm run dev` to start the development server.
 
-Run `npm run build` to generate the production files in `dist/`.
+Run `npm run build` to generate the production files in `build/`.
